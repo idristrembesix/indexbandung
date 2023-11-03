@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'calibri', serif;
+}
+
+
+header{
+    width: 100%;
+    background-color:#0000ff;
+    color: aliceblue;
+    padding-block: 20px;
+}
+
+header a {
+    color: aliceblue;
+}
+footer{
+    width: 100%;
+    background-color: #0000ff;
+    color: aliceblue;
+    padding-block: 20px;
+
+}
+#foot{
+    margin-bottom: -10px;
+}

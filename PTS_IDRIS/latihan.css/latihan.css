@@ -1,0 +1,33 @@
+.kotak5{
+    height: 200px;
+    width:100% ;
+    background-color: blueviolet;
+}
+
+p{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    line-height:  200px;
+}
+.kotak6{
+    height: 300px;
+    width:  70%;
+    background-color: black;
+    float: left;
+}
+
+.kotak7{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(255, 127, 144);
+    float: left;
+}
+.kotak8{
+    clear: both;
+    height: 130px;
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+    line-height:150px ;
+}

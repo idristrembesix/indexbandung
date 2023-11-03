@@ -1,0 +1,28 @@
+.kotak {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(10, 10, 50);
+    float: left;
+    margin-left: 20px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    line-height: 250px;
+}
+
+.bg-blue{
+    background: rgb(4, 43, 32);}
+
+.kotak2{
+    clear: both;
+    background: red;
+    color: rgb(255, 255, 255);
+    width: 24%;
+    padding-block: 150px;
+    text-align: center;
+    margin-left: 20px;
+
+}    
